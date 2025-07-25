@@ -1,0 +1,9 @@
+main.plugins.reborn_onlinehashcrack.enabled = true
+main.plugins.reborn_onlinehashcrack.email = "example@gmail.com"  
+main.plugins.reborn_onlinehashcrack.api_key = "sk_YourAPIKey"    
+main.plugins.reborn_onlinehashcrack.dashboard = "https://www.onlinehashcrack.com/dashboard"
+main.plugins.reborn_onlinehashcrack.single_files = true
+main.plugins.reborn_onlinehashcrack.whitelist = [
+    "office ssid",
+    "home ssid",
+]
