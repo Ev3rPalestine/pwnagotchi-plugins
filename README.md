@@ -1,8 +1,9 @@
-# pwnagotchi-plugins
-Pwnagotchi Plugins 
+# Collection of Pwnagotchi Plugins
+
+ ### reborn_onlinehashcracking
 
 
-## Tested on the below pwnagotchi firmware (RPiZero2W)
+## Plugins have been tested on the below pwnagotchi firmware (RPiZero2W)
 
 Pwnagotchi 2.9.5.3
 
